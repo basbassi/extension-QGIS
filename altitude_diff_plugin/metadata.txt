@@ -1,0 +1,7 @@
+[general]
+name=Altitude Diff Plugin
+description=Calcul de différences d'altitudes entre points d'une couche vecteur et une couche raster.
+version=1.0
+qgisMinimumVersion=3.0
+author=Ton Nom
+email=ton@email.com
